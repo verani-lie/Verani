@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: verani.lie@gmail.com 
 &nbsp;&nbsp; 📲 +65-96999045
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](linkedin.com/in/verani-01b95284)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/verani-01b95284)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
